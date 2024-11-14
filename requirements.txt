@@ -1,0 +1,10 @@
+nnAudio==0.3.3
+numpy==2.0.2
+scikit-learn==1.5.2
+scipy==1.14.1
+soundfile==0.12.1
+tensorboard==2.18.0
+torch==2.5.0
+torchaudio==2.5.0
+torchvision==0.20.0
+tqdm==4.66.5
